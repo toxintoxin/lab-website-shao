@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklab_website_shao=self.webpackChunklab_website_shao||[]).push([[985],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

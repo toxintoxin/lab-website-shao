@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklab_website=self.webpackChunklab_website||[]).push([[325],{1938:e=>{e.exports=JSON.parse('{"permalink":"/lab-website-shao/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
